@@ -29,10 +29,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
 
-remote_name: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 
 # Build settings
-theme: chrisrhymes/ bulma-clean-theme
+# theme: chrisrhymes/ bulma-clean-theme
 plugins:
   - jekyll-feed
 # Exclude from processing.
