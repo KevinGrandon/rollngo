@@ -14,14 +14,14 @@ The strider is the perfect portable scooter for folks who need a dependable and 
 
 A step up over the strider for commuters looking for the next level.
 
-# Assassin
-
-<img width="400" src="/assets/img/models/assassin.jpg">
-
-Our entry level dual motor scooter, built for long range and the thrill of riding at high speeds.
-
 # Raider
 
 <img width="400" src="/assets/img/models/raider.jpg">
+
+Our entry level dual motor scooter, built for long range and the thrill of riding at high speeds.
+
+# Assassin
+
+<img width="400" src="/assets/img/models/assassin.jpg">
 
 Our powerhouse electric scooter with tons of torque and power.
